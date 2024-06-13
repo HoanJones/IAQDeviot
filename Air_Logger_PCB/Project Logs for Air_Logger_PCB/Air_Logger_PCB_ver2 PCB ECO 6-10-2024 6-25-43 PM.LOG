@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=TX2 Pin=JP6-1
+Removed Pin From Net: NetName=RX2 Pin=JP6-2
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP6
+Added Component: Designator=JP5(JP 1x5 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX2 Pin=JP5-1
+Added Pin To Net: NetName=TX2 Pin=JP5-2
+Added Pin To Net: NetName=GND Pin=JP5-3
+Added Pin To Net: NetName=5Vcc Pin=JP5-4
+Added Room: Name=Air_Logger_Sch_ver2

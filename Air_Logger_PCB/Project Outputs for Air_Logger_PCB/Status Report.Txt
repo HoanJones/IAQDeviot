@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Air_Logger_PCB.PrjPcb]
+   Generated File[Air_Logger_PCB_ver2-RoundHoles.TXT]
+   Generated File[Air_Logger_PCB_ver2-SlotHoles.TXT]
+   Generated File[Air_Logger_PCB_ver2.LDP]
+   Generated File[Air_Logger_PCB_ver2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:08:02 PM On 6/11/2024

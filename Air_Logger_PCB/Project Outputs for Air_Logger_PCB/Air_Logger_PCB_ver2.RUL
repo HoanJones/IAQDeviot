@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Air_Logger_PCB\Air_Logger_PCB_ver2.PcbDoc
+RuleKind=Clearance|RuleName=Anten|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=USB|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=31.50
+RuleKind=Clearance|RuleName=Space|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

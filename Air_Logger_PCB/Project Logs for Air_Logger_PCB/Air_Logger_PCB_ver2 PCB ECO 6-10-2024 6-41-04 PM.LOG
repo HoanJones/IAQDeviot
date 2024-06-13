@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Member To Class: ClassName=Air_Logger_Sch_ver2 Member=Component JP5 UART2
+Added Member To Class: ClassName=Air_Logger_Sch_ver2 Member=Component JP6 1V8
+Added Member To Class: ClassName=Air_Logger_Sch_ver2 Member=Component Q6 BSS138
+Added Room: Name=Air_Logger_Sch_ver2

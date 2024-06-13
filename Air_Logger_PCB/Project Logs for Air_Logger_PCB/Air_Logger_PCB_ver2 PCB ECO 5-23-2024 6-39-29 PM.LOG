@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=9 TXD Pin=Q1-2
+Removed Pin From Net: NetName=MCU1_TX Pin=Q2-2
+Removed Pin From Net: NetName=10 RXD Pin=Q2-3
+Removed Pin From Net: NetName=MCU3_TX Pin=Q12-2
+Removed Pin From Net: NetName=49 RXD3 Pin=Q12-3
+Removed Pin From Net: NetName=50 TXD3 Pin=Q13-2
+Removed Pin From Net: NetName=MCU3_RX Pin=Q13-3
+Change Component Footprint: Designator=Q1 Old Footprint=SOT50P160X78-3N New Footprint=SOT23B C1815
+Change Component Footprint: Designator=Q2 Old Footprint=SOT50P160X78-3N New Footprint=SOT23B C1815
+Change Component Footprint: Designator=Q12 Old Footprint=SOT50P160X78-3N New Footprint=SOT23B C1815
+Change Component Footprint: Designator=Q13 Old Footprint=SOT50P160X78-3N New Footprint=SOT23B C1815
+Change Component Comment : Designator=Q1 Old Comment=MMBT3904T New Comment=MMBT3904
+Change Component Comment : Designator=Q2 Old Comment=MMBT3904T New Comment=MMBT3904
+Change Component Comment : Designator=Q12 Old Comment=MMBT3904T New Comment=MMBT3904
+Change Component Comment : Designator=Q13 Old Comment=MMBT3904T New Comment=MMBT3904
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT50P160X78-3N"; UniqueID = "\GANFFXXZ" ("\GANFFXXZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT50P160X78-3N"; UniqueID = "\MCGYXONM" ("\MCGYXONM")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q12" ("Q12"); Footprint = "SOT50P160X78-3N"; UniqueID = "\BUJXUVXQ" ("\BUJXUVXQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q13" ("Q13"); Footprint = "SOT50P160X78-3N"; UniqueID = "\GMEASEMF" ("\GMEASEMF")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU1_RX Pin=Q1-2
+Added Pin To Net: NetName=9 TXD Pin=Q1-3
+Added Pin To Net: NetName=10 RXD Pin=Q2-2
+Added Pin To Net: NetName=MCU1_TX Pin=Q2-3
+Added Pin To Net: NetName=49 RXD3 Pin=Q12-2
+Added Pin To Net: NetName=MCU3_TX Pin=Q12-3
+Added Pin To Net: NetName=MCU3_RX Pin=Q13-2
+Added Pin To Net: NetName=50 TXD3 Pin=Q13-3

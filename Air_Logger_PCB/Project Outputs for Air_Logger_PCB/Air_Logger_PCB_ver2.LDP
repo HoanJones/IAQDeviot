@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Air_Logger_PCB\Air_Logger_PCB_ver2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=air_logger_pcb_ver2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=air_logger_pcb_ver2-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=SIM_CLK Pin=C23-1
+Removed Pin From Net: NetName=SIM_RST Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=SIM_VDD Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=SIM_DATA Pin=C26-2
+Removed Pin From Net: NetName=NetJ4_C3 Pin=R40-2
+Removed Pin From Net: NetName=SIM_DATA Pin=R41-2
+Removed Pin From Net: NetName=SIM_CLK Pin=R44-1
+Change Component Footprint: Designator=C23 Old Footprint=tu 0805 New Footprint=tu 1206
+Change Component Footprint: Designator=C24 Old Footprint=tu 0805 New Footprint=tu 1206
+Change Component Footprint: Designator=C26 Old Footprint=tu 0805 New Footprint=tu 1206
+Change Component Comment : Designator=C26 Old Comment=22pF New Comment=104
+Change Component Comment : Designator=C25 Old Comment=104 New Comment=22pF
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R44
+Change component parameters: Designator = "C23" ("C23"); Footprint = "tu 0805"; UniqueID = "\TGREMSFZ" ("\TGREMSFZ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004547"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 22P 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "tu 0805"; UniqueID = "\UZSYYCCM" ("\UZSYYCCM")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004547"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 22P 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "tu 1206"; UniqueID = "\RRYTICDH" ("\RRYTICDH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004547"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 22P 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "tu 0805"; UniqueID = "\HKLTLNYH" ("\HKLTLNYH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004544"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 104-0.1uF 20% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=J4(GCT_SIM5051-6-0-18-00-X_REVF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SIM5051-6-0-18-00-A REV C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SIM5051-6-0-18-00-A%20REV%20C/Global%20Connector%20Technology/view-part/812969/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R42(Tro smd 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005913"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 1206 5% 22R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SIM_RST Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=SIM_DATA Pin=C24-2
+Added Pin To Net: NetName=SIM_CLK Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=SIM_VDD Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=SIM_VDD Pin=J4-C1
+Added Pin To Net: NetName=NetJ4_C3 Pin=J4-C3
+Added Pin To Net: NetName=GND Pin=J4-C5
+Added Pin To Net: NetName=SIM_DATA Pin=R41-1
+Added Pin To Net: NetName=SIM_CLK Pin=R42-1
+Added Pin To Net: NetName=NetJ4_C3 Pin=R42-2
+Added Pin To Net: NetName=NetJ4_C2 Pin=J4-C2
+Added Pin To Net: NetName=NetJ4_C2 Pin=R40-2
+Added Net: Name=NetJ4_C2
+Added Pin To Net: NetName=NetJ4_C7 Pin=J4-C7
+Added Pin To Net: NetName=NetJ4_C7 Pin=R41-2
+Added Net: Name=NetJ4_C7
+Added Member To Class: ClassName=Air_Logger_Sch_ver2 Member=Component J4 SIM Socket

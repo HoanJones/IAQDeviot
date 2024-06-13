@@ -1,0 +1,12 @@
+Added Component: Designator=J3(AMPHENOL_10119313-301CLF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/10119313-301CLF/Amphenol/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "10119313-301CLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10119313-301CLF/Amphenol/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=J3-1
+Added Pin To Net: NetName=USB_DN Pin=J3-2
+Added Pin To Net: NetName=USB_DP Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Member To Class: ClassName=Air_Logger_Sch_ver2 Member=Component J3 USB Type B Mini

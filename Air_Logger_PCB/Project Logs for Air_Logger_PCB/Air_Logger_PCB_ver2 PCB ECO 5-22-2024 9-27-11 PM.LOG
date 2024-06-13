@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=SIM_DATA Pin=C24-2
+Change Component Footprint: Designator=C23 Old Footprint=tu 1206 New Footprint=tu 0805
+Change Component Footprint: Designator=C24 Old Footprint=tu 1206 New Footprint=tu 0805
+Change Component Footprint: Designator=C25 Old Footprint=tu 1206 New Footprint=tu 0805
+Change component parameters: Designator = "C23" ("C23"); Footprint = "tu 1206"; UniqueID = "\EDCMDADH" ("\EDCMDADH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 22P 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "tu 1206"; UniqueID = "\HLGTJLJK" ("\HLGTJLJK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 22P 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "tu 1206"; UniqueID = "\CJFSKRHP" ("\CJFSKRHP")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 22P 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SIM_DATA Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Member To Class: ClassName=Air_Logger_Sch_ver2 Member=Component R42 22R
+Added Member To Class: ClassName=Air_Logger_Sch_ver2 Member=Component R43 10k
+Added Member To Class: ClassName=Air_Logger_Sch_ver2 Member=Component R44 10k
